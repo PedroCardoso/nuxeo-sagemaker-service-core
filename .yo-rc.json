@@ -1,0 +1,8 @@
+{
+  "generator-nuxeo": {
+    "lastRemote": "/Users/pcardoso/.cache/node-yeoman-remote-cache/nuxeo/generator-nuxeo-meta/2.8.0",
+    "promptValues": {
+      "package": "org.nuxeo.ai.train.sagemaker"
+    }
+  }
+}

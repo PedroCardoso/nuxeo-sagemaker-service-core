@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<component name="org.nuxeo.ai.train.sagemaker.AiTraining" version="1.0">
+
+  <implementation class="org.nuxeo.ai.train.sagemaker.AiTrainingImpl" />
+
+  <service>
+    <provide interface="org.nuxeo.ai.train.sagemaker.AiTraining" />
+  </service>
+</component>
